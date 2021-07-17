@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+figure.size-large img {
+  width: 250px;
+  height: 250px;
+}
+
+.blue-box {
+  background-color: lightblue;
+}
